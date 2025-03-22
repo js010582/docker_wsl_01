@@ -46,4 +46,6 @@ def ping_other():
         client.close()
 
 if __name__ == "__main__":
-    ping_other() 
+    while ():
+        ping_other()
+        time.sleep(10)
